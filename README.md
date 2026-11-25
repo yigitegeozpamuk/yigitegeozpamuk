@@ -54,6 +54,14 @@ MindBridge and CRAVE are private projects in development. CrowdShield is an acad
 
 These are technologies I use or am actively learning, rather than claims of expert-level proficiency.
 
+## Engineering labs — runnable code
+
+| Lab | Engineering focus | Verification |
+| :--- | :--- | :--- |
+| [**RelayQueue**](./labs/relayqueue) | Durable job queue, transactional concurrency, idempotency, retries and lease recovery | Six automated test cases; [CI results](https://github.com/yigitegeozpamuk/yigitegeozpamuk/actions) |
+
+AI-assisted learning projects with source code and documented tradeoffs. See each lab for setup, limitations and verification.
+
 ## Technical toolbox
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,fastapi,postgres,supabase,figma,git,github,vscode&amp;perline=7" alt="Technical toolbox"></p>
