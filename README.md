@@ -15,14 +15,33 @@ I'm a Software Engineering student at the University of Europe for Applied Scien
 - **Currently exploring:** Distributed systems, computer networks and reusable software design
 - **Availability:** Software engineering and product development internships in Germany from Summer 2027
 
+## At a glance
+
+| 🎓 Education | 💻 Engineering | 🎨 Design | 🌍 Career |
+| :--- | :--- | :--- | :--- |
+| BSc Software Engineering | Backend & system design | UI/UX & prototyping | Germany · Summer 2027 |
+| University of Europe for Applied Sciences | Building practical software projects | Figma · Responsive web | Open to internships |
+
 ## Selected work
+
+<table>
+<tr>
+<td width="50%"><a href="./projects/mindbridge.md"><img src="./assets/mindbridge-card.svg" width="100%" alt="MindBridge project"></a></td>
+<td width="50%"><a href="./projects/crave.md"><img src="./assets/crave-card.svg" width="100%" alt="CRAVE project"></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="./projects/crowdshield.md"><img src="./assets/crowdshield-card.svg" width="100%" alt="CrowdShield project"></a></td>
+<td width="50%"><h3>Engineering notebook</h3><p>Academic topics, technical exploration and my ongoing learning roadmap.</p><a href="./learning/engineering.md">Explore learning areas →</a></td>
+</tr>
+</table>
+
 
 | Project | Overview | Technologies / focus |
 | :--- | :--- | :--- |
 | [**MindBridge**](./projects/mindbridge.md) | A non-clinical student wellbeing platform | Python, FastAPI, web development |
 | [**CRAVE**](./projects/crave.md) | A mobile-first short-form food video discovery experience | Web development, Supabase, product design |
 
-Both projects are in development. Source code is private; public summaries are available above.
+MindBridge and CRAVE are private projects in development. CrowdShield is an academic project in development. Public summaries are available above.
 
 ## Technologies & tools
 
@@ -34,6 +53,33 @@ Both projects are in development. Source code is private; public summaries are a
 | Design & workflow | ![Figma](https://img.shields.io/badge/Figma-334155?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white) |
 
 These are technologies I use or am actively learning, rather than claims of expert-level proficiency.
+
+## Technical toolbox
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,fastapi,postgres,supabase,figma,git,github,vscode&amp;perline=7" alt="Technical toolbox"></p>
+
+## Academic & practical foundations
+
+| Area | Topics and work |
+| :--- | :--- |
+| Software engineering | Requirements analysis, UML, software architecture and reusable design |
+| Computer science | Programming fundamentals, computer architecture and distributed systems |
+| Database systems | SQL, PostgreSQL and relational data modeling |
+| Computer networks | Packet Tracer, VLANs, inter-VLAN routing and DHCP exercises |
+| Product design | Wireframes, components, design systems and responsive interfaces |
+
+[Explore my engineering learning journal →](./learning/engineering.md)
+
+## How I approach building products
+
+```mermaid
+flowchart LR
+ A[Understand] --> B[Design]
+ B --> C[Build]
+ C --> D[Test]
+ D --> E[Refine]
+ E --> B
+```
 
 ## Engineering interests
 
@@ -50,9 +96,23 @@ These are technologies I use or am actively learning, rather than claims of expe
 </p>
 <p align="center"><sub>Public activity only; private project work may not be reflected. Statistics depend on an external service.</sub></p>
 
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=yigitegeozpamuk&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="Public GitHub contribution activity graph" width="100%"></p>
+
+## Development roadmap
+
+- [x] Establish a public engineering portfolio
+- [x] Document selected project concepts
+- [ ] Publish standalone projects with reproducible setup
+- [ ] Expand automated testing and CI knowledge
+- [ ] Deepen backend architecture and networking skills
+
 ## Beyond code
 
-I am interested in entrepreneurship, technology communities and the process of turning ideas into practical products.
+I am interested in entrepreneurship, technology communities and the process of turning ideas into practical products. I also enjoy organizing student community initiatives, collaborating with others and exploring how design can make technology more approachable.
+
+## Opportunities
+
+Interested in internship opportunities involving software development, backend engineering, product engineering and UI/UX-oriented development. I value collaborative teams, practical learning and thoughtful engineering.
 
 ---
 
