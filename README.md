@@ -60,6 +60,8 @@ These are technologies I use or am actively learning, rather than claims of expe
 | :--- | :--- | :--- |
 | [**RelayQueue**](./labs/relayqueue) | Durable job queue, transactional concurrency, idempotency, retries and lease recovery | Six automated test cases; [CI results](https://github.com/yigitegeozpamuk/yigitegeozpamuk/actions) |
 
+| [**CacheForge**](./labs/cacheforge) | Thread-safe LRU cache, TTL, single-flight loading and metrics | 7 local tests passed; CI configured |
+
 AI-assisted learning projects with source code and documented tradeoffs. See each lab for setup, limitations and verification.
 
 ## Technical toolbox
